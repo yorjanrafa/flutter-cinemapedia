@@ -68,4 +68,5 @@ class MovieFromMovieDB {
       };
 }
 
+// ignore: constant_identifier_names
 enum OriginalLanguage { EN, ES, KO, TH }
